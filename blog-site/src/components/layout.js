@@ -15,7 +15,6 @@ const Content = styled.div`
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
-    Execute Query
     query SiteTitleQuery {
       site {
         siteMetadata {

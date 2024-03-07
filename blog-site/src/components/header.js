@@ -25,7 +25,7 @@ const Header = ({ siteTitle }) => (
   </StyledHeader>
 )
 
-Header.PropTypes = {
+Header.propTypes = {
   siteTitle: PropTypes.string,
 }
 
