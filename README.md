@@ -1,3 +1,3 @@
-# Dayton-Kotas-P1
+# GiannisBlog
 
 ITDEV-164-600 Project 1 
